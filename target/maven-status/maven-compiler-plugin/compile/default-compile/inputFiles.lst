@@ -1,0 +1,8 @@
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\CapstoneApplication.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\config\DynamoDbConfig.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\controller\StockController.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\exception\GlobalExceptionHandler.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\model\StockRecord.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\repository\StockRepository.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\service\MockStockApiService.java
+C:\Users\Kiran.Ganachari\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\capstone\src\main\java\com\Encora\capstone\service\StockService.java
