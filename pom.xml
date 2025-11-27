@@ -13,16 +13,16 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.capstone</groupId>
-    <artifactId>stock-portfolio-backend</artifactId>
+    <groupId>com.encora.capstone</groupId>
+    <artifactId>capstone</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Stock Portfolio Backend</name>
+    <name>Capstone</name>
     <description>Backend for Stock Portfolio Dashboard</description>
 
     <properties>
         <!-- keep 17 if you want, or change to 21 if running on Java 21 -->
         <java.version>17</java.version>
-        <aws.sdk.version>2.20.69</aws.sdk.version>
+        <aws.sdk.version>2.39.5</aws.sdk.version>
     </properties>
 
     <!-- BOM to keep AWS SDK module versions consistent -->
@@ -87,6 +87,25 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
+        </dependency>
+
+        <!-- JWT Dependencies -->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt-api</artifactId>
+            <version>0.11.5</version>
+        </dependency>
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt-impl</artifactId>
+            <version>0.11.5</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt-jackson</artifactId>
+            <version>0.11.5</version>
+            <scope>runtime</scope>
         </dependency>
 
         <!-- Testing -->
